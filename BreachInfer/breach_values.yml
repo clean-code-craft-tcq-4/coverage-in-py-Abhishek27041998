@@ -1,0 +1,19 @@
+# Config file for classifying the breach values,
+# Any new component or values can be added to this in future
+
+Temperature:
+  PASSIVE_COOLING:
+    lower_limit: 0
+    upper_limit: 35
+  HI_ACTIVE_COOLING:
+    lower_limit: 0
+    upper_limit: 45
+  MED_ACTIVE_COOLING:
+    lower_limit: 0
+    upper_limit: 40
+
+
+
+
+
+
